@@ -16,7 +16,7 @@ DevOps & Linux sysadmin. I build the small tools that make running fleets, hosti
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KingPin/KingPin/output/github-snake.svg" />
 </picture>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KingPin&theme=tokyonight&no-frame=true&margin-w=10&rank=-?,SECRET)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KingPin&no-frame=true&margin-w=10&rank=-?,SECRET)
 
 ## ⭐ Favorite Projects
 
@@ -37,7 +37,7 @@ DevOps & Linux sysadmin. I build the small tools that make running fleets, hosti
 
 ### 🔐 Security & Privacy
 - **Periscope** — external attack-surface scanning with AI-processed findings and branded reporting
-- **unstamp** — strip Gemini watermarks and invisible AI metadata, 100% client-side
+- **[unstamp](https://unstamp.kpsn.dev/)** — strip Gemini watermarks and invisible AI metadata, 100% client-side
 - **huginn** — Discord security bot, URL + file scanning, anti-raid, automated moderation
 
 ### 🤖 AI & Automation
