@@ -16,7 +16,7 @@ DevOps & Linux sysadmin. I build the small tools that make running fleets, hosti
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KingPin/KingPin/output/github-snake.svg" />
 </picture>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KingPin&no-frame=true&margin-w=10&rank=-?,SECRET)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KingPin&theme=onedark&no-frame=true&margin-w=10&rank=-?,SECRET)
 
 ## ⭐ Favorite Projects
 
