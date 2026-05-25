@@ -20,7 +20,7 @@ DevOps & Linux sysadmin. I build the small tools that make running fleets, hosti
 
 ## ⭐ Favorite Projects
 
-> A curated tour beyond my 6 pinned repos. Public projects are linked; *closed-source* entries are private consulting / personal work shown for context.
+> A curated tour beyond my 6 pinned repos. Public projects are linked; unlinked entries are private consulting / personal work shown for context.
 
 ### 🐳 DevOps & Infrastructure
 - **[php-docker](https://github.com/KingPin/php-docker)** — multi-arch PHP 8.2–8.5 Docker images across Alpine / Debian, 30+ extensions, s6-overlay
@@ -29,29 +29,29 @@ DevOps & Linux sysadmin. I build the small tools that make running fleets, hosti
 - **[caddy-docker-xtra](https://github.com/KingPin/caddy-docker-xtra)** — Caddy v2 with an extended plugin set (security, multi-DNS, rate-limit, L4, WebDAV), multi-arch
 - **[GitPorter](https://github.com/KingPin/GitPorter)** — repo mirroring across GitHub / GitLab / Bitbucket / Gitea / Forgejo, LFS + releases
 - **[doxygen-docker](https://github.com/KingPin/doxygen-docker)** — containerized Doxygen with PUID/PGID and multi-arch builds
-- **FleetFix** *(closed-source)* — terminal-UI triage toolbox for Ubuntu / Debian fleet operators
+- **FleetFix** — terminal-UI triage toolbox for Ubuntu / Debian fleet operators
 
 ### 📊 Monitoring & Ops
 - **[PingPanda](https://github.com/KingPin/PingPanda)** — dockerized DNS / ping / HTTP health checks with retries and logging
 - **[OctoPulse](https://github.com/KingPin/OctoPulse)** — zero-backend GitHub maintainer dashboard: what needs you, what's rotting, across many repos
 
 ### 🔐 Security & Privacy
-- **Periscope** *(closed-source)* — external attack-surface scanning with AI-processed findings and branded reporting
-- **unstamp** *(closed-source)* — strip Gemini watermarks and invisible AI metadata, 100% client-side
-- **huginn** *(closed-source)* — Discord security bot, URL + file scanning, anti-raid, automated moderation
+- **Periscope** — external attack-surface scanning with AI-processed findings and branded reporting
+- **unstamp** — strip Gemini watermarks and invisible AI metadata, 100% client-side
+- **huginn** — Discord security bot, URL + file scanning, anti-raid, automated moderation
 
 ### 🤖 AI & Automation
-- **HydraCrawl** *(closed-source)* — high-resilience scraping & aggregation engine for personal RAG corpora
-- **homertron** *(closed-source)* — browser extension for instant AI explanations / summaries on highlighted text
-- **Chimera** *(closed-source)* — LLM-powered Game Boy autopilot: PyBoy emulator driven by a Gemini/Ollama orchestrator
+- **HydraCrawl** — high-resilience scraping & aggregation engine for personal RAG corpora
+- **homertron** — browser extension for instant AI explanations / summaries on highlighted text
+- **Chimera** — LLM-powered Game Boy autopilot: PyBoy emulator driven by a Gemini/Ollama orchestrator
 
 ### 🎮 Games
-- **Wyrmhole** *(closed-source)* — Discord RPG bot with 560+ monsters, 10 classes, player economy, guild towns, and AI-powered narratives
-- **NoxEternum** *(closed-source)* — modern browser-based RPG with character progression and turn-based actions
+- **Wyrmhole** — Discord RPG bot with 560+ monsters, 10 classes, player economy, guild towns, and AI-powered narratives
+- **NoxEternum** — modern browser-based RPG with character progression and turn-based actions
 
 ### 🌐 Web & Self-hosted
 - **[Garrul](https://github.com/KingPin/Garrul)** — self-hosted comments for static sites, runs on Cloudflare Workers + D1 + KV + Turnstile
 - **[nginx-rtmp-docker](https://github.com/KingPin/nginx-rtmp-docker)** — dockerized nginx with the RTMP module for simple live-stream ingest
 - **[FanOut](https://github.com/KingPin/FanOut)** — high-performance HTTP request multiplexer with retry logic and observability
 - **[sumguy-examples](https://github.com/KingPin/sumguy-examples)** — working code examples from [SumGuy's Ramblings](https://sumguy.com)
-- **MedTrak** *(closed-source)* — personal health-tracking web app: Next.js + Prisma + Postgres + NextAuth, offline guest mode
+- **MedTrak** — personal health-tracking web app: Next.js + Prisma + Postgres + NextAuth, offline guest mode
